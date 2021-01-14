@@ -1,15 +1,18 @@
 ### Date created
-Include the date you created this project and README file.
+14 Jan 2021
 
 ### Project Title
-Replace the Project Title
+Bikeshare Project
 
 ### Description
 Describe what your project is about and what it does
 
 ### Files used
-Include the files used
+Bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Book which is useful 
+
+https://www.oreilly.com/library/view/python-for-data/9781449323592/
+
 
