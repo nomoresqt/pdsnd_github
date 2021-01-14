@@ -157,7 +157,7 @@ def station_stats(df):
     
     
 
-"----------------"
+
 
 def trip_duration_stats(df):
     """Displays statistics on the total and average trip duration."""
@@ -180,8 +180,7 @@ def trip_duration_stats(df):
     print('-'*40)
 
 
-
-
+#Gender and Birth date are missing from Washington Data set, we need to handle this issue
 def user_stats(df):
     """Displays statistics on bikeshare users."""
     
