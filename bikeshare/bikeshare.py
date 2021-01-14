@@ -14,7 +14,7 @@ CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
 
-
+#Added comments for refactoring
 
 def get_filters():
     """
@@ -59,7 +59,7 @@ def get_filters():
 
 
 
-" Function: load data"
+#Function: load data
 
 def load_data(city, month, day):
     """
